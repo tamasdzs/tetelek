@@ -3,4 +3,4 @@
 \beamer@sectionintoc {2}{El\IeC {\H o}zm\IeC {\'e}nyek}{7}{0}{2}
 \beamer@sectionintoc {3}{Kidolgozott m\IeC {\'o}dszer}{11}{0}{3}
 \beamer@sectionintoc {4}{Implement\IeC {\'a}ci\IeC {\'o}}{20}{0}{4}
-\beamer@sectionintoc {5}{Tesztek, eredm\IeC {\'e}nyek}{27}{0}{5}
+\beamer@sectionintoc {5}{Tesztek, eredm\IeC {\'e}nyek}{23}{0}{5}

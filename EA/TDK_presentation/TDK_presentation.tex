@@ -68,7 +68,7 @@
 \date{\vspace{2mm}\\
 \vspace{3mm}
 \scriptsize
-Budapest,\\ 2017. június x.
+Budapest,\\ 2017. júlus 3.
 %\textcolor{blue}{The Project is supported by the European Union and co-financed by the European Social
 %Fund (grant agreement no.\ T\'AMOP 4.2.2./B-10/1-2010-0030).}
 }
@@ -351,18 +351,6 @@ of QRS complexes using Hermite expansion}, IEEE Trans. on Sig. Proc., vol. 60, n
 
 \section{Implementáció}
 \label{tab:implemenation}
-\begin{frame}{Megvalósítás}
-\linespread{0.8}
-\small
-\vspace{-2mm}
-\begin{block}{Felépítés}
-	\begin{itemize}
-		\item c++ nyelven megírt jelfeldolgozó rész.
-		\item Webes felhasználói felület.
-	\end{itemize}
-	\end{block}
-			
-\end{frame}
 
 \begin{frame}{A tömörítés implementációja}
 \linespread{0.8}
@@ -400,20 +388,6 @@ of QRS complexes using Hermite expansion}, IEEE Trans. on Sig. Proc., vol. 60, n
 \end{block}		
 \end{frame}
 
-\begin{frame}{A NelderMead modul}
-\linespread{0.8}
-\small
-\vspace{-2mm}
-
-\begin{figure}[H]
-	\begin{center}
-		\includegraphics[scale=0.25]{./figures/NelderMead.png}
-		\caption{A NelderMead modul UML diagrammja}
-	\end{center}	
-\end{figure}
-
-\end{frame}
-
 \begin{frame}{A felhasználói felület}
 \linespread{0.8}
 \small
@@ -435,42 +409,7 @@ of QRS complexes using Hermite expansion}, IEEE Trans. on Sig. Proc., vol. 60, n
 
 \end{frame}
 
-\begin{frame}{A felhasználói felület}
-\linespread{0.8}
-\small
-\vspace{-2mm}
 
-\begin{figure}[H]
-\begin{center}
-   \includegraphics[scale=0.25]{./figures/animpage.png}
-   \caption{Az animation.php}
-\end{center}
-\end{figure}
-
-\end{frame}
-
-
-\begin{frame}{A fejlesztés jellemzése}
-\linespread{0.8}
-\small
-\vspace{-2mm}
-\begin{block}{A rendszer felépítése}
-	\begin{itemize}
-		\item Könnyű telepítés, fordítás.
-		\item Logikus könyvtár felépítés. 
-		\item Kód, modul tesztek, webes tartalom elszeparálása.
-		\item Verziókezelő rendszer (git) alkalmazása.
-	\end{itemize}
-	\end{block}		
-	
-\begin{block}{A kód jellemzése}
-	\begin{itemize}
-		\item Azonos kódolási stílus használata. 
-		\item Konstans értékek használata. "Varázsszámok" szűrése.
-		\item Beszédes azonosítók használata. (pl. t\_inActionSig\_ofs).
-	\end{itemize}
-	\end{block}
-\end{frame}
 
 \section{Tesztek, eredmények}
 \label{tab:results}
@@ -545,14 +484,6 @@ of QRS complexes using Hermite expansion}, IEEE Trans. on Sig. Proc., vol. 60, n
 }
 \end{frame}
 
-\begin{frame}{Más algoritmusokkal való összehasonlítás}
-	\begin{figure}
-	\subfigure[180 szomszédos szívütés.]{\includegraphics[scale=0.38,trim=100 280 100 280,clip]{./figures/waterfall_ECG.pdf}}
-	\subfigure[Szívütések 2D képe.]{\includegraphics[scale=0.38,trim=100 280 100 280,clip]{./figures/ecg2d.pdf}}
-	\caption{EKG jelek feldolgozása képtömörítő algoritmusok segítségével.}
-\end{figure}
-\end{frame}
-
 \begin{frame}{Összefoglalás}
 \linespread{0.8}
 \small
@@ -562,10 +493,10 @@ of QRS complexes using Hermite expansion}, IEEE Trans. on Sig. Proc., vol. 60, n
 		\item Új ONR szerkesztése transzlációval és dilatációval.
 		\item Optimum létezésének belátása.
 		\item Alkalmazás EKG jelek tömörítésére, szegmentálására.
-		\item Tesztelés valós adatsorozatokon.
 		\item Hatékony implementáció elkészítése, webes felhasználói felülettel.
-		\item Összehasonlítás más módszerekkel: fix Hermite, JPEG2000.
 		\item Módszer publikálása nemzetközi folyóiratban \cite{sajat}.
+		\item Eredmények bemutatása nemzetközi konferencián.
+		\item Eredmények bemutatása Tudományos Diákköri Konferencián.
 	\end{itemize}
 	\end{block}				
 	\begin{block}{Konklúzó}

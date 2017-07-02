@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.8)  10 JUN 2017 22:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.8)  2 JUL 2017 19:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2912,154 +2912,114 @@ Package pdftex.def Info: ./figures/abra_lepes3.pdf used on input line 350.
 
 ] [22
 
-]
-<./figures/NelderMead.png, id=2517, 1154.3125pt x 511.9125pt>
-File: ./figures/NelderMead.png Graphic file (type png)
+] [23
 
-<use ./figures/NelderMead.png>
-Package pdftex.def Info: ./figures/NelderMead.png used on input line 415.
-(pdftex.def)             Requested size: 288.57742pt x 127.97781pt.
- [23
-
- <./figures/NelderMead.png>] [24
+] [24
 
 ]
-<./figures/animpage.png, id=2580, 910.40125pt x 615.29875pt>
-File: ./figures/animpage.png Graphic file (type png)
-
-<use ./figures/animpage.png>
-Package pdftex.def Info: ./figures/animpage.png used on input line 450.
-(pdftex.def)             Requested size: 227.59975pt x 153.82431pt.
- [25
-
- <./figures/animpage.png>] [26
-
-] [27
-
-] [28
-
-]
-Overfull \hbox (10.11096pt too wide) in paragraph at lines 546--546
+Overfull \hbox (10.11096pt too wide) in paragraph at lines 485--485
  [] 
  []
 
-[29
+[25
 
-] <./figures/eredeti_abra1.pdf, id=2733, 597.23125pt x 845.1575pt>
+] <./figures/eredeti_abra1.pdf, id=2609, 597.23125pt x 845.1575pt>
 File: ./figures/eredeti_abra1.pdf Graphic file (type pdf)
 
 <use ./figures/eredeti_abra1.pdf>
-Package pdftex.def Info: ./figures/eredeti_abra1.pdf used on input line 546.
+Package pdftex.def Info: ./figures/eredeti_abra1.pdf used on input line 485.
 (pdftex.def)             Requested size: 150.55962pt x 113.22044pt.
 
-<./figures/sajat_abra1.pdf, id=2735, 597.23125pt x 845.1575pt>
+<./figures/sajat_abra1.pdf, id=2611, 597.23125pt x 845.1575pt>
 File: ./figures/sajat_abra1.pdf Graphic file (type pdf)
 
 <use ./figures/sajat_abra1.pdf>
-Package pdftex.def Info: ./figures/sajat_abra1.pdf used on input line 546.
+Package pdftex.def Info: ./figures/sajat_abra1.pdf used on input line 485.
 (pdftex.def)             Requested size: 150.55962pt x 113.22044pt.
+ [26
+
+ <./figures/eredeti_abra1.pdf> <./figures/sajat_abra1.pdf>] [27
+
+] [28
+
+ </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>] [2
+9
+
+]
+<./figures/abra762_bad.pdf, id=2758, 597.23125pt x 845.1575pt>
+File: ./figures/abra762_bad.pdf Graphic file (type pdf)
+
+<use ./figures/abra762_bad.pdf>
+Package pdftex.def Info: ./figures/abra762_bad.pdf used on input line 549.
+(pdftex.def)             Requested size: 150.66425pt x 107.56244pt.
+
+<./figures/abra762_good.pdf, id=2760, 597.23125pt x 845.1575pt>
+File: ./figures/abra762_good.pdf Graphic file (type pdf)
+
+<use ./figures/abra762_good.pdf>
+Package pdftex.def Info: ./figures/abra762_good.pdf used on input line 549.
+(pdftex.def)             Requested size: 150.66425pt x 107.56244pt.
  [30
 
- <./figures/eredeti_abra1.pdf> <./figures/sajat_abra1.pdf>]
-<./figures/waterfall_ECG.pdf, id=2778, 597.23125pt x 845.1575pt>
-File: ./figures/waterfall_ECG.pdf Graphic file (type pdf)
+ <./figures/abra762_bad.pdf> <./figures/abra762_good.pdf>] [31
 
-<use ./figures/waterfall_ECG.pdf>
-Package pdftex.def Info: ./figures/waterfall_ECG.pdf used on input line 554.
-(pdftex.def)             Requested size: 150.66425pt x 107.56244pt.
+] <./figures/NMT1.PNG, id=2835, 501.875pt x 451.6875pt>
+File: ./figures/NMT1.PNG Graphic file (type png)
 
-<./figures/ecg2d.pdf, id=2780, 597.23125pt x 845.1575pt>
-File: ./figures/ecg2d.pdf Graphic file (type pdf)
+<use ./figures/NMT1.PNG>
+Package pdftex.def Info: ./figures/NMT1.PNG used on input line 597.
+(pdftex.def)             Requested size: 105.9963pt x 87.66776pt.
 
-<use ./figures/ecg2d.pdf>
-Package pdftex.def Info: ./figures/ecg2d.pdf used on input line 554.
-(pdftex.def)             Requested size: 150.66425pt x 107.56244pt.
- [31
+<./figures/NMT2.PNG, id=2837, 552.0625pt x 451.6875pt>
+File: ./figures/NMT2.PNG Graphic file (type png)
 
- <./figures/waterfall_ECG.pdf> <./figures/ecg2d.pdf>]
-Overfull \vbox (0.21686pt too high) detected at line 578
+<use ./figures/NMT2.PNG>
+Package pdftex.def Info: ./figures/NMT2.PNG used on input line 597.
+(pdftex.def)             Requested size: 117.0376pt x 87.66776pt.
+
+Overfull \vbox (7.82805pt too high) detected at line 597
  []
 
 [32
 
-] [33
-
- </usr/share/texlive/texmf-dist/tex/latex/beamer/art/beamericonarticle.pdf>] [3
-4
-
-] <./figures/abra762_bad.pdf, id=2928, 597.23125pt x 845.1575pt>
-File: ./figures/abra762_bad.pdf Graphic file (type pdf)
-
-<use ./figures/abra762_bad.pdf>
-Package pdftex.def Info: ./figures/abra762_bad.pdf used on input line 618.
-(pdftex.def)             Requested size: 150.66425pt x 107.56244pt.
-
-<./figures/abra762_good.pdf, id=2930, 597.23125pt x 845.1575pt>
-File: ./figures/abra762_good.pdf Graphic file (type pdf)
-
-<use ./figures/abra762_good.pdf>
-Package pdftex.def Info: ./figures/abra762_good.pdf used on input line 618.
-(pdftex.def)             Requested size: 150.66425pt x 107.56244pt.
- [35
-
- <./figures/abra762_bad.pdf> <./figures/abra762_good.pdf>] [36
-
-] <./figures/NMT1.PNG, id=3004, 501.875pt x 451.6875pt>
-File: ./figures/NMT1.PNG Graphic file (type png)
-
-<use ./figures/NMT1.PNG>
-Package pdftex.def Info: ./figures/NMT1.PNG used on input line 666.
-(pdftex.def)             Requested size: 105.9963pt x 87.66776pt.
-
-<./figures/NMT2.PNG, id=3006, 552.0625pt x 451.6875pt>
-File: ./figures/NMT2.PNG Graphic file (type png)
-
-<use ./figures/NMT2.PNG>
-Package pdftex.def Info: ./figures/NMT2.PNG used on input line 666.
-(pdftex.def)             Requested size: 117.0376pt x 87.66776pt.
-
-Overfull \vbox (7.82805pt too high) detected at line 666
- []
-
-[37
-
  <./figures/NMT1.PNG> <./figures/NMT2.PNG>]
-<./figures/NMT3.PNG, id=3042, 602.25pt x 451.6875pt>
+<./figures/NMT3.PNG, id=2873, 602.25pt x 451.6875pt>
 File: ./figures/NMT3.PNG Graphic file (type png)
  <use ./figures/NMT3.PNG>
-Package pdftex.def Info: ./figures/NMT3.PNG used on input line 666.
+Package pdftex.def Info: ./figures/NMT3.PNG used on input line 597.
 (pdftex.def)             Requested size: 128.07889pt x 87.66776pt.
 
-<./figures/NMT4.PNG, id=3044, 702.625pt x 437.635pt>
+<./figures/NMT4.PNG, id=2875, 702.625pt x 437.635pt>
 File: ./figures/NMT4.PNG Graphic file (type png)
  <use ./figures/NMT4.PNG>
-Package pdftex.def Info: ./figures/NMT4.PNG used on input line 666.
+Package pdftex.def Info: ./figures/NMT4.PNG used on input line 597.
 (pdftex.def)             Requested size: 150.16145pt x 55.42714pt.
 
-<./figures/NMT5.PNG, id=3046, 702.625pt x 435.6275pt>
+<./figures/NMT5.PNG, id=2877, 702.625pt x 435.6275pt>
 File: ./figures/NMT5.PNG Graphic file (type png)
  <use ./figures/NMT5.PNG>
-Package pdftex.def Info: ./figures/NMT5.PNG used on input line 666.
+Package pdftex.def Info: ./figures/NMT5.PNG used on input line 597.
 (pdftex.def)             Requested size: 150.16145pt x 54.98549pt.
 
-Overfull \vbox (2.93411pt too high) detected at line 666
+Overfull \vbox (2.93411pt too high) detected at line 597
  []
 
-[38
+[33
 
- <./figures/NMT3.PNG> <./figures/NMT4.PNG> <./figures/NMT5.PNG>] [39
+ <./figures/NMT3.PNG> <./figures/NMT4.PNG> <./figures/NMT5.PNG>] [34
 
 ]
-<./figures/ECGfeatures.png, id=3112, 932.48375pt x 555.07375pt>
+<./figures/ECGfeatures.png, id=2942, 932.48375pt x 555.07375pt>
 File: ./figures/ECGfeatures.png Graphic file (type png)
 
 <use ./figures/ECGfeatures.png>
-Package pdftex.def Info: ./figures/ECGfeatures.png used on input line 717.
+Package pdftex.def Info: ./figures/ECGfeatures.png used on input line 648.
 (pdftex.def)             Requested size: 251.77397pt x 149.8719pt.
-Package atenddvi Info: Last page = 40.
- [40
+ [35
 
- <./figures/ECGfeatures.png>] [41
+ <./figures/ECGfeatures.png>]
+Package atenddvi Info: Last page = 36.
+ [36
 
 ]
 \tf@nav=\write6
@@ -3071,21 +3031,12 @@ Package atenddvi Info: Last page = 40.
 \tf@snm=\write8
 \openout8 = `TDK_presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 718.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 718.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 649.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 649.
 
-(./TDK_presentation.aux
-
-Package atenddvi Warning: Rerun LaTeX, last page has changed.
-
-
-Package animate Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-(animate)                @@ Rerun to get internal references right! @@
-(animate)                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
-
-)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 718.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 718.
+(./TDK_presentation.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 649.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 649.
 Package rerunfilecheck Info: File `TDK_presentation.out' has not changed.
 (rerunfilecheck)             Checksum: F363BA90A64E2A70C855DAF39DBEC875;263.
 
@@ -3093,16 +3044,13 @@ Package rerunfilecheck Info: File `TDK_presentation.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 718.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 649.
  ) 
 Here is how much of TeX's memory you used:
- 28032 strings out of 493029
- 554660 string characters out of 6136234
- 614792 words of memory out of 5000000
- 30738 multiletter control sequences out of 15000+600000
+ 27994 strings out of 493029
+ 554005 string characters out of 6136234
+ 612172 words of memory out of 5000000
+ 30714 multiletter control sequences out of 15000+600000
  32642 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,63p,10421b,806s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -3130,10 +3078,10 @@ ype1/public/cm-super/sfss1095.pfb></usr/share/texmf/fonts/type1/public/cm-super
 /sfsx0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/
 share/texmf/fonts/type1/public/cm-super/sfsx1095.pfb></usr/share/texmf/fonts/ty
 pe1/public/cm-super/sfsx1440.pfb>
-Output written on TDK_presentation.pdf (41 pages, 1556286 bytes).
+Output written on TDK_presentation.pdf (36 pages, 1200439 bytes).
 PDF statistics:
- 3285 PDF objects out of 3580 (max. 8388607)
- 2503 compressed objects within 26 object streams
- 96 named destinations out of 1000 (max. 500000)
- 3912 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3111 PDF objects out of 3580 (max. 8388607)
+ 2345 compressed objects within 24 object streams
+ 86 named destinations out of 1000 (max. 500000)
+ 3880 words of extra memory for PDF output out of 10000 (max. 10000000)
 
